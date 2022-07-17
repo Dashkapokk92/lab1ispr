@@ -25,9 +25,9 @@ https://github.com/Dashkapokk92/lab1ispr/blob/master/lab1.iml
 
 *Фактический результат 3*
 
-# Скриншот
+# Скриншоt
 
-![Изображение](<a href="https://ibb.co/NszPGwg"><img src="https://i.ibb.co/pxp8kC6/image.png" alt="image" border="0" /></a>)
+<a href="https://ibb.co/NszPGwg"><img src="https://i.ibb.co/pxp8kC6/image.png" alt="image" border="0" /></a>
 
 # Окружение
 

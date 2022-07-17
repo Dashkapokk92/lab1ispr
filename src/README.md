@@ -27,7 +27,7 @@ https://github.com/Dashkapokk92/lab1ispr/blob/master/lab1.iml
 
 # Скриншот
 
-![Изображение](https://ibb.co/NszPGwg)
+![Изображение](<a href="https://ibb.co/NszPGwg"><img src="https://i.ibb.co/pxp8kC6/image.png" alt="image" border="0" /></a>)
 
 # Окружение
 

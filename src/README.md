@@ -27,7 +27,7 @@ https://github.com/Dashkapokk92/lab1ispr/blob/master/lab1.iml
 
 # Скриншот
 
-![](https://ibb.co/NszPGwg)
+![Изображение](https://ibb.co/NszPGwg)
 
 # Окружение
 
